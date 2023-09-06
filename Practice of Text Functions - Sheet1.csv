@@ -1,0 +1,12 @@
+Word,Lenght,Trim,Upper,Lower,Proper,Substitute,Raplace,Find,Left,Right,Mid,Concatenate
+Act 1,5,Act 1,ACT 1,act 1,Act 1,Act 2,You 1,5,Ac, 1,ct,
+Happy Birthday,14,Happy Birthday,HAPPY BIRTHDAY,happy birthday,Happy Birthday,No Birthday,Youpy Birthday,3,Ha,ay, Birt,
+"lmvsl,klsdnvf",13,"lmvsl,klsdnvf","LMVSL,KLSDNVF","lmvsl,klsdnvf","Lmvsl,Klsdnvf","lmvsl,klsdnvf","Yousl,klsdnvf",6,lm,vf,"vsl,kl",
+Never,5,Never,NEVER,never,Never,Never,Youer,2,Ne,er,ev,Never Gonna Give You Up
+Gonna,5,Gonna,GONNA,gonna,Gonna,Gonna,Youna,3,Go,na,nn,
+Give,4,Give,GIVE,give,Give,Give,Youe,3,Gi,ve,iv,
+You,3,You,YOU,you,You,You,You,1,Yo,ou,ou,Give Up
+Up,2,Up,UP,up,Up,Up,You,2,Up,Up,p,
+OPKxda,6,OPKxda,OPKXDA,opkxda,Opkxda,OPKxda,Youxda,4,OP,da,PKx,
+OPMS,4,OPMS,OPMS,opms,Opms,OPMS,YouS,3,OP,MS,PM,
+LONg eNGlIsh words,18,LONg eNGlIsh words,LONG ENGLISH WORDS,long english words,Long English Words,Short eNGlIsh words,Youg eNGlIsh words,15,LO,ds,Ng eN,

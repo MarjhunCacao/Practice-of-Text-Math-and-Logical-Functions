@@ -1,0 +1,7 @@
+Data,Formula,Result,Remark
+210,FALSE,FALSE,"As there is no error, so FALSE"
+#REF!,TRUE,TRUE,"TRUE, as it is an error"
+#N/A,TRUE,TRUE,"Unlike ISERR, it does take the error N/A"
+#DIV/0!,TRUE,TRUE,"TRUE, as the formulais an error"
+#VALUE!,TRUE,TRUE,"TRUE, as it is an error"
+,FALSE,FALSE,"No error, so FALSE"
